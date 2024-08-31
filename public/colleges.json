@@ -1,0 +1,516 @@
+[
+    {
+      "id": 1,
+      "name": "IIT Madras - Indian Institute of Technology",
+      "location": "Chennai, Tamil Nadu",
+      "course": "B.Tech Computer Science Engineering",
+      "cutoff": 144,
+      "fees": 209550,
+      "placement": {
+        "average": 2148000,
+        "highest": 19800000
+      },
+      "user_reviews": {
+        "rating": 8.6,
+        "total_reviews": 289,
+        "highlight": "Best in Social Life"
+      },
+      "ranking": "#1 out of 35 in India 2023",
+      "featured": false
+    },
+    {
+      "id": 2,
+      "name": "IIT Delhi - Indian Institute of Technology",
+      "location": "New Delhi, Delhi NCR",
+      "course": "B.Tech + M.Tech Mathematics and Computing",
+      "cutoff": 115,
+      "fees": 254650,
+      "placement": {
+        "average": 2582000,
+        "highest": 20000000
+      },
+      "user_reviews": {
+        "rating": 8.7,
+        "total_reviews": 485,
+        "highlight": "Best in Social Life"
+      },
+      "ranking": "#2 out of 35 in India 2023",
+      "featured": false
+    },
+    {
+      "id": 3,
+      "name": "Parul University, Vadodara",
+      "location": "Vadodara, Gujarat",
+      "course": "BE/B.Tech",
+      "cutoff": 0,
+      "fees": 149000,
+      "placement": {
+        "average": 400000,
+        "highest": 3000000
+      },
+      "user_reviews": {
+        "rating": 8.1,
+        "total_reviews": 802,
+        "highlight": "Best in Infrastructure"
+      },
+      "ranking": "#99 out of 147 in India 2019",
+      "featured": true
+    },
+    {
+      "id": 1,
+      "name": "IIT Madras - Indian Institute of Technology",
+      "location": "Chennai, Tamil Nadu",
+      "course": "B.Tech Computer Science Engineering",
+      "cutoff": 144,
+      "fees": 209550,
+      "placement": {
+        "average": 2148000,
+        "highest": 19800000
+      },
+      "user_reviews": {
+        "rating": 8.6,
+        "total_reviews": 289,
+        "highlight": "Best in Social Life"
+      },
+      "ranking": "#1 out of 35 in India 2023",
+      "featured": false
+    },
+    {
+      "id": 2,
+      "name": "IIT Delhi - Indian Institute of Technology",
+      "location": "New Delhi, Delhi NCR",
+      "course": "B.Tech + M.Tech Mathematics and Computing",
+      "cutoff": 115,
+      "fees": 254650,
+      "placement": {
+        "average": 2582000,
+        "highest": 20000000
+      },
+      "user_reviews": {
+        "rating": 8.7,
+        "total_reviews": 485,
+        "highlight": "Best in Social Life"
+      },
+      "ranking": "#2 out of 35 in India 2023",
+      "featured": false
+    },
+    {
+      "id": 3,
+      "name": "Parul University, Vadodara",
+      "location": "Vadodara, Gujarat",
+      "course": "BE/B.Tech",
+      "cutoff": 0,
+      "fees": 149000,
+      "placement": {
+        "average": 400000,
+        "highest": 3000000
+      },
+      "user_reviews": {
+        "rating": 8.1,
+        "total_reviews": 802,
+        "highlight": "Best in Infrastructure"
+      },
+      "ranking": "#99 out of 147 in India 2019",
+      "featured": true
+    },
+    {
+      "id": 1,
+      "name": "IIT Madras - Indian Institute of Technology",
+      "location": "Chennai, Tamil Nadu",
+      "course": "B.Tech Computer Science Engineering",
+      "cutoff": 144,
+      "fees": 209550,
+      "placement": {
+        "average": 2148000,
+        "highest": 19800000
+      },
+      "user_reviews": {
+        "rating": 8.6,
+        "total_reviews": 289,
+        "highlight": "Best in Social Life"
+      },
+      "ranking": "#1 out of 35 in India 2023",
+      "featured": false
+    },
+    {
+      "id": 2,
+      "name": "IIT Delhi - Indian Institute of Technology",
+      "location": "New Delhi, Delhi NCR",
+      "course": "B.Tech + M.Tech Mathematics and Computing",
+      "cutoff": 115,
+      "fees": 254650,
+      "placement": {
+        "average": 2582000,
+        "highest": 20000000
+      },
+      "user_reviews": {
+        "rating": 8.7,
+        "total_reviews": 485,
+        "highlight": "Best in Social Life"
+      },
+      "ranking": "#2 out of 35 in India 2023",
+      "featured": false
+    },
+    {
+      "id": 3,
+      "name": "Parul University, Vadodara",
+      "location": "Vadodara, Gujarat",
+      "course": "BE/B.Tech",
+      "cutoff": 0,
+      "fees": 149000,
+      "placement": {
+        "average": 400000,
+        "highest": 3000000
+      },
+      "user_reviews": {
+        "rating": 8.1,
+        "total_reviews": 802,
+        "highlight": "Best in Infrastructure"
+      },
+      "ranking": "#99 out of 147 in India 2019",
+      "featured": true
+    },
+    {
+      "id": 1,
+      "name": "IIT Madras - Indian Institute of Technology",
+      "location": "Chennai, Tamil Nadu",
+      "course": "B.Tech Computer Science Engineering",
+      "cutoff": 144,
+      "fees": 209550,
+      "placement": {
+        "average": 2148000,
+        "highest": 19800000
+      },
+      "user_reviews": {
+        "rating": 8.6,
+        "total_reviews": 289,
+        "highlight": "Best in Social Life"
+      },
+      "ranking": "#1 out of 35 in India 2023",
+      "featured": false
+    },
+    {
+      "id": 2,
+      "name": "IIT Delhi - Indian Institute of Technology",
+      "location": "New Delhi, Delhi NCR",
+      "course": "B.Tech + M.Tech Mathematics and Computing",
+      "cutoff": 115,
+      "fees": 254650,
+      "placement": {
+        "average": 2582000,
+        "highest": 20000000
+      },
+      "user_reviews": {
+        "rating": 8.7,
+        "total_reviews": 485,
+        "highlight": "Best in Social Life"
+      },
+      "ranking": "#2 out of 35 in India 2023",
+      "featured": false
+    },
+    {
+      "id": 3,
+      "name": "Parul University, Vadodara",
+      "location": "Vadodara, Gujarat",
+      "course": "BE/B.Tech",
+      "cutoff": 0,
+      "fees": 149000,
+      "placement": {
+        "average": 400000,
+        "highest": 3000000
+      },
+      "user_reviews": {
+        "rating": 8.1,
+        "total_reviews": 802,
+        "highlight": "Best in Infrastructure"
+      },
+      "ranking": "#99 out of 147 in India 2019",
+      "featured": true
+    },
+    {
+      "id": 1,
+      "name": "IIT Madras - Indian Institute of Technology",
+      "location": "Chennai, Tamil Nadu",
+      "course": "B.Tech Computer Science Engineering",
+      "cutoff": 144,
+      "fees": 209550,
+      "placement": {
+        "average": 2148000,
+        "highest": 19800000
+      },
+      "user_reviews": {
+        "rating": 8.6,
+        "total_reviews": 289,
+        "highlight": "Best in Social Life"
+      },
+      "ranking": "#1 out of 35 in India 2023",
+      "featured": false
+    },
+    {
+      "id": 2,
+      "name": "IIT Delhi - Indian Institute of Technology",
+      "location": "New Delhi, Delhi NCR",
+      "course": "B.Tech + M.Tech Mathematics and Computing",
+      "cutoff": 115,
+      "fees": 254650,
+      "placement": {
+        "average": 2582000,
+        "highest": 20000000
+      },
+      "user_reviews": {
+        "rating": 8.7,
+        "total_reviews": 485,
+        "highlight": "Best in Social Life"
+      },
+      "ranking": "#2 out of 35 in India 2023",
+      "featured": false
+    },
+    {
+      "id": 3,
+      "name": "Parul University, Vadodara",
+      "location": "Vadodara, Gujarat",
+      "course": "BE/B.Tech",
+      "cutoff": 0,
+      "fees": 149000,
+      "placement": {
+        "average": 400000,
+        "highest": 3000000
+      },
+      "user_reviews": {
+        "rating": 8.1,
+        "total_reviews": 802,
+        "highlight": "Best in Infrastructure"
+      },
+      "ranking": "#99 out of 147 in India 2019",
+      "featured": true
+    },
+    {
+      "id": 1,
+      "name": "IIT Madras - Indian Institute of Technology",
+      "location": "Chennai, Tamil Nadu",
+      "course": "B.Tech Computer Science Engineering",
+      "cutoff": 144,
+      "fees": 209550,
+      "placement": {
+        "average": 2148000,
+        "highest": 19800000
+      },
+      "user_reviews": {
+        "rating": 8.6,
+        "total_reviews": 289,
+        "highlight": "Best in Social Life"
+      },
+      "ranking": "#1 out of 35 in India 2023",
+      "featured": false
+    },
+    {
+      "id": 2,
+      "name": "IIT Delhi - Indian Institute of Technology",
+      "location": "New Delhi, Delhi NCR",
+      "course": "B.Tech + M.Tech Mathematics and Computing",
+      "cutoff": 115,
+      "fees": 254650,
+      "placement": {
+        "average": 2582000,
+        "highest": 20000000
+      },
+      "user_reviews": {
+        "rating": 8.7,
+        "total_reviews": 485,
+        "highlight": "Best in Social Life"
+      },
+      "ranking": "#2 out of 35 in India 2023",
+      "featured": false
+    },
+    {
+      "id": 3,
+      "name": "Parul University, Vadodara",
+      "location": "Vadodara, Gujarat",
+      "course": "BE/B.Tech",
+      "cutoff": 0,
+      "fees": 149000,
+      "placement": {
+        "average": 400000,
+        "highest": 3000000
+      },
+      "user_reviews": {
+        "rating": 8.1,
+        "total_reviews": 802,
+        "highlight": "Best in Infrastructure"
+      },
+      "ranking": "#99 out of 147 in India 2019",
+      "featured": true
+    },
+    {
+      "id": 1,
+      "name": "IIT Madras - Indian Institute of Technology",
+      "location": "Chennai, Tamil Nadu",
+      "course": "B.Tech Computer Science Engineering",
+      "cutoff": 144,
+      "fees": 209550,
+      "placement": {
+        "average": 2148000,
+        "highest": 19800000
+      },
+      "user_reviews": {
+        "rating": 8.6,
+        "total_reviews": 289,
+        "highlight": "Best in Social Life"
+      },
+      "ranking": "#1 out of 35 in India 2023",
+      "featured": false
+    },
+    {
+      "id": 2,
+      "name": "IIT Delhi - Indian Institute of Technology",
+      "location": "New Delhi, Delhi NCR",
+      "course": "B.Tech + M.Tech Mathematics and Computing",
+      "cutoff": 115,
+      "fees": 254650,
+      "placement": {
+        "average": 2582000,
+        "highest": 20000000
+      },
+      "user_reviews": {
+        "rating": 8.7,
+        "total_reviews": 485,
+        "highlight": "Best in Social Life"
+      },
+      "ranking": "#2 out of 35 in India 2023",
+      "featured": false
+    },
+    {
+      "id": 3,
+      "name": "Parul University, Vadodara",
+      "location": "Vadodara, Gujarat",
+      "course": "BE/B.Tech",
+      "cutoff": 0,
+      "fees": 149000,
+      "placement": {
+        "average": 400000,
+        "highest": 3000000
+      },
+      "user_reviews": {
+        "rating": 8.1,
+        "total_reviews": 802,
+        "highlight": "Best in Infrastructure"
+      },
+      "ranking": "#99 out of 147 in India 2019",
+      "featured": true
+    },
+    {
+      "id": 1,
+      "name": "IIT Madras - Indian Institute of Technology",
+      "location": "Chennai, Tamil Nadu",
+      "course": "B.Tech Computer Science Engineering",
+      "cutoff": 144,
+      "fees": 209550,
+      "placement": {
+        "average": 2148000,
+        "highest": 19800000
+      },
+      "user_reviews": {
+        "rating": 8.6,
+        "total_reviews": 289,
+        "highlight": "Best in Social Life"
+      },
+      "ranking": "#1 out of 35 in India 2023",
+      "featured": false
+    },
+    {
+      "id": 2,
+      "name": "IIT Delhi - Indian Institute of Technology",
+      "location": "New Delhi, Delhi NCR",
+      "course": "B.Tech + M.Tech Mathematics and Computing",
+      "cutoff": 115,
+      "fees": 254650,
+      "placement": {
+        "average": 2582000,
+        "highest": 20000000
+      },
+      "user_reviews": {
+        "rating": 8.7,
+        "total_reviews": 485,
+        "highlight": "Best in Social Life"
+      },
+      "ranking": "#2 out of 35 in India 2023",
+      "featured": false
+    },
+    {
+      "id": 3,
+      "name": "Parul University, Vadodara",
+      "location": "Vadodara, Gujarat",
+      "course": "BE/B.Tech",
+      "cutoff": 0,
+      "fees": 149000,
+      "placement": {
+        "average": 400000,
+        "highest": 3000000
+      },
+      "user_reviews": {
+        "rating": 8.1,
+        "total_reviews": 802,
+        "highlight": "Best in Infrastructure"
+      },
+      "ranking": "#99 out of 147 in India 2019",
+      "featured": true
+    },
+    {
+      "id": 1,
+      "name": "IIT Madras - Indian Institute of Technology",
+      "location": "Chennai, Tamil Nadu",
+      "course": "B.Tech Computer Science Engineering",
+      "cutoff": 144,
+      "fees": 209550,
+      "placement": {
+        "average": 2148000,
+        "highest": 19800000
+      },
+      "user_reviews": {
+        "rating": 8.6,
+        "total_reviews": 289,
+        "highlight": "Best in Social Life"
+      },
+      "ranking": "#1 out of 35 in India 2023",
+      "featured": false
+    },
+    {
+      "id": 2,
+      "name": "IIT Delhi - Indian Institute of Technology",
+      "location": "New Delhi, Delhi NCR",
+      "course": "B.Tech + M.Tech Mathematics and Computing",
+      "cutoff": 115,
+      "fees": 254650,
+      "placement": {
+        "average": 2582000,
+        "highest": 20000000
+      },
+      "user_reviews": {
+        "rating": 8.7,
+        "total_reviews": 485,
+        "highlight": "Best in Social Life"
+      },
+      "ranking": "#2 out of 35 in India 2023",
+      "featured": false
+    },
+    {
+      "id": 3,
+      "name": "Parul University, Vadodara",
+      "location": "Vadodara, Gujarat",
+      "course": "BE/B.Tech",
+      "cutoff": 0,
+      "fees": 149000,
+      "placement": {
+        "average": 400000,
+        "highest": 3000000
+      },
+      "user_reviews": {
+        "rating": 8.1,
+        "total_reviews": 802,
+        "highlight": "Best in Infrastructure"
+      },
+      "ranking": "#99 out of 147 in India 2019",
+      "featured": true
+    }
+  ]
+  
